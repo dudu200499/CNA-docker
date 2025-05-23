@@ -27,6 +27,13 @@ This project is containerized using Docker. You can run the application interact
 ### 📦 Build the Docker Container
 
 ```bash
+
+Open command prompt/terminal and do the following:
+
+git clone https://github.com/dudu200499/CNA-docker
+
+cd CNA-docker
+
 docker compose build
 
 docker compose run portal
